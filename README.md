@@ -9,9 +9,9 @@ Link:
 This project was developed by a team of four:
 
     Shreyash Hatkar: Front-end developer (login activities, home page, services) (https://github.com/ShreyashHatkar)
-    Aayush: Front-end developer (Dashboard)
+    Aayush: Front-end developer (Dashboard) (https://github.com/Aayush-lad)
     Sanyam Chawla: Google Cloud Hosting and Content Writer  (https://github.com/sanchawla17)
-    Kreet Rout: Backend Developer (php scripts)
+    Kreet Rout: Backend Developer (php scripts) (https://github.com/kreet1010)
 
 #Technologies Used
 
