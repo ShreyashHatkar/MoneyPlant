@@ -7,12 +7,12 @@ Link:
 #Team Members
 
 This project was developed by a team of four:
-
-    Shreyash Hatkar: Front-end developer (login activities, home page, services) (https://github.com/ShreyashHatkar)
-    Aayush Lad: Front-end developer (Dashboard) (https://github.com/Aayush-lad)
-    Sanyam Chawla: Google Cloud Hosting and Content Writer  (https://github.com/sanchawla17)
-    Kreet Rout: Backend Developer (php scripts) (https://github.com/kreet1010)
-
+<p>
+    <a href="https://github.com/ShreyashHatkar">@Shreyash Hatkar</a> : Front-end developer (login activities, home page, services)<br>
+    <a href="https://github.com/Aayush-lad">@Aayush Lad</a> : Front-end developer (Dashboard)<br>
+    <a href="https://github.com/sanchawla17">@Sanyam Chawla</a> : Google Cloud Hosting and Content Writer<br>  
+    <a href="https://github.com/kreet1010">@Kreet Rout</a> : Backend Developer (php scripts)
+</p>
 #Technologies Used
 
 Our website was built using the following technologies:
@@ -41,4 +41,4 @@ The purpose of the above fintech project is to provide a comprehensive platform 
 
 We welcome your feedback and contributions to our website! Please feel free to submit issues, pull requests, or suggestions to our GitHub repository. You can also contact us by email or social media, and follow us for updates and news. Thank you for using our website and happy learning!
 
- 
+
