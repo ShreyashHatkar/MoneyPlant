@@ -8,10 +8,10 @@ Link:
 
 This project was developed by a team of four:
 
-    Shreyash Hatkar: Front-end developer
-    Aayush: Front-end developer
-    Sanyam Chawla: Google Cloud Hosting and Content
-    Kreet Rout: Backend Developer
+    Shreyash Hatkar: Front-end developer (login activities, home page, services) (https://github.com/ShreyashHatkar)
+    Aayush: Front-end developer (Dashboard)
+    Sanyam Chawla: Google Cloud Hosting and Content Writer  (https://github.com/sanchawla17)
+    Kreet Rout: Backend Developer (php scripts)
 
 #Technologies Used
 
@@ -19,7 +19,7 @@ Our website was built using the following technologies:
 
     HTML, CSS, and JavaScript for the front-end
     PHP and SQL for the back-end
-    Google Cloud is used for hosting
+    Google Cloud and AMD instance is used for hosting
 
 #Features
 
@@ -32,23 +32,13 @@ Our website includes the following features:
     Personal dashboard with progress tracking and recommendations
     Admin panel for managing content and users
 
-#Contributions
-
-Each team member made significant contributions to the project:
-
-----
-----
-----
-----
 
 #Usage
 
-***
-****
-****
+The purpose of the above fintech project is to provide a comprehensive platform for learning about the stock market and financial technologies. The website is designed to serve as a valuable resource for individuals seeking to gain knowledge and skills in these areas. It offers a range of features including tutorials, courses, quizzes, articles, interviews, and podcasts on stock training and fintech topics. The website also includes user registration and login with secure authentication, personal dashboards for progress tracking and recommendations, and an admin panel for managing content and users. Users can access the website from anywhere with an internet connection, making it a convenient and flexible option for learning about the stock market and fintech. The website is intended for anyone interested in these topics, from beginners to advanced learners.
 
 #Feedback and Contributions
 
 We welcome your feedback and contributions to our website! Please feel free to submit issues, pull requests, or suggestions to our GitHub repository. You can also contact us by email or social media, and follow us for updates and news. Thank you for using our website and happy learning!
 
-Instagram: 
+ 
