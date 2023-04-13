@@ -1,5 +1,9 @@
 <h1>MoneyPlant(Stock Training and Fintech Website)</h1>
 
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=100&lines=We+are+moneyplant..&hearts;++;Virtual+stock+trade+training;Spreading+fintech+awareness;Active+community;Love+to+help+others..<3"></a>
+</p>
+
    Welcome to our website project on stock training and basic fintech knowledge! This website is designed to provide resources and information for anyone interested      in learning about the stock market and related financial technologies. This is built for GFG organised solving for India HAckathon.
 
 Link: http://34.131.47.250/
