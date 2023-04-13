@@ -8,7 +8,7 @@ Link:
 
 This project was developed by a team of four:
 <p>
-    <a href="https://github.com/ShreyashHatkar">@Shreyash Hatkar</a> : Front-end developer (login activities, home page, services)<br>
+    <a href="https://github.com/ShreyashHatkar">@Shreyash Hatkar</a> : Front-end developer (login activities, home page, services, Github)<br>
     <a href="https://github.com/Aayush-lad">@Aayush Lad</a> : Front-end developer (Dashboard)<br>
     <a href="https://github.com/sanchawla17">@Sanyam Chawla</a> : Google Cloud Hosting and Content Writer<br>  
     <a href="https://github.com/kreet1010">@Kreet Rout</a> : Backend Developer (php scripts)
