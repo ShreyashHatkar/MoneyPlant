@@ -20,7 +20,7 @@ This project was developed by a team of four:
 
 <h3>Objective</h3>
 
-   The objective of MoneyPlant is to provide a comprehensive training system for beginners to improve their investing skills and knowledge in the world of finance.        Our platform offers a variety of tools, including a stock visualizer and analyzer, financial calculator, and virtual trading account, to help users build a solid      foundation in investing and make informed decisions about their portfolio.
+   The objective of MoneyPlant is to provide a comprehensive training system for beginners to improve their investing skills and knowledge in the world of finance.        Our platform offers a variety of tools, including a stock visualizer and analyzer, financial calculator, and virtual trading account, to help users build a solid foundation in investing and make informed decisions about their portfolio.
 
 <h3>Methodology</h3>
 
